@@ -1,1 +1,2 @@
-# tracking_trend_anomaly
+- Early notify trend and anomaly of traffic network
+- Techniques: ACF, Savgol filter, moving average
