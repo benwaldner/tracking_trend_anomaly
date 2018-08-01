@@ -4,11 +4,11 @@ import read_data as rd
 import pandas as pd
 import train_series1 as train
 
-import create_data2 as cd
-import test_series1 as ts
+import create_data as cd
+import test_series as ts
 from datetime import date, timedelta
 import datetime as dt
-import warning1 as warn
+import warning as warn
 import notify_mail as nm
 
 
