@@ -2,8 +2,8 @@
 import read_data as rd
 import pandas as pd
 import re
-import test_series1 as ts
-import train_series1 as train
+import test_series as ts
+import train_series as train
 import datetime as dt
 
 
