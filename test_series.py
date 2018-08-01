@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import create_data2 as cd
+import create_data as cd
 import graph_type_process as gt
 
 class test_anomaly():
